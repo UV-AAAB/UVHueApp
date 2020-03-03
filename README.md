@@ -1,15 +1,8 @@
-* lys for tavle undervisning
-
-* lys for konsentration
-
-* Farve therapy
- lys for opstart af projekter/debugging (kreativ farver)
-
-* layout inspiration (easy park)
-
-* lys til tidlige elever
-
-* lys for "fokuseret arbejde"
-
-* face recognition 
-
+## Målbeskrivelse
+* Lys for brug under tavle lektioner
+* Lys for opgaver der kræver koncentration
+* Lys til elever der ankommer tidligt om morgenen (Start kl. 7)
+* Lys slukker automatisk kl. 17
+* Farveteori & -terapi
+* Layout inspiration: Easy Park
+* (Ansigtsgenkændelse) - Lysskifte når en elev falder hen
