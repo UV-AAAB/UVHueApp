@@ -10,3 +10,17 @@
 * Målgruppen er undervisningsinstitutioner og deres lærere
 * Kodeord til institutioner
 * (Ansigtsgenkændelse) - Lysskifte når en elev falder hen
+
+
+## Funktionsbeskrivelse
+### Login
+* Kodeord specifik til institution
+
+### Home
+* Urskive til valg af funktioner
+* Knap i midten af urskiven til at starte funktion
+* Highlight tab når side er valgt
+
+### Indstillinger
+* Slå automatisk frikvarter fra
+* Valg af bridge
