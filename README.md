@@ -6,4 +6,7 @@
 * Lys slukker automatisk kl. 17
 * Farveteori & -terapi
 * Layout inspiration: Easy Park
+* System til at vælge gemt bridge fra navn
+* Målgruppen er undervisningsinstitutioner og deres lærere
+* Kodeord til institutioner
 * (Ansigtsgenkændelse) - Lysskifte når en elev falder hen
