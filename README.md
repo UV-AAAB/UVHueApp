@@ -1,5 +1,5 @@
 ## Målbeskrivelse/kravspecifikation
-* App (Iconicframework)
+* App (Ionicframework)
 * Lys for brug under tavle lektioner
 * Lys for opgaver der kræver koncentration
 * Lys til elever der ankommer tidligt om morgenen (Start kl. 7)
@@ -24,3 +24,11 @@
 ### Indstillinger
 * Slå automatisk frikvarter fra
 * Valg af bridge
+
+
+## Opgaveuddeling
+### UI
+* Ionicframework - Alexander
+* Login - Bahman
+* Home - Arne
+* Settings - Andreas
