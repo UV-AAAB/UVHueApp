@@ -1,0 +1,7 @@
+{
+  "name": "uvhue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
