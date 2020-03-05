@@ -19,8 +19,7 @@ h1{
 
 
 .settings__h1{
-  background-color: #53A9FF;
-  padding: 65.45px 0px;
+  padding: 40.26px 0px;
 }
 
 
@@ -29,19 +28,34 @@ h1{
 }
 
 .individual__setting_Recess{
-background-color: #1BCC82;
+  transition: background-color 1s ease;
+  background-color: #1CD98A;
 }
 
 .individual__setting_SignOut{
-background-color: #17B372;
+  transition: background-color 1s ease;
+  background-color: #1BCC82;
 }
 
 .individual__setting_bridge{
-background-color: #1CD98A;
+  transition: background-color 1s ease;
+  background-color: #19c27c;
+}
+
+.individual__setting_state{
+  transition: background-color 1s ease;
+  background-color: #17B372;
 }
 
 
-
 .individual__setting p{
-  padding: 65.45px 0px;
+  padding: 40.26px 0px;
+  font-size: 20px;
+}
+
+.white__bg{
+
+  transition: background-color 1s ease;
+  background-color: white;
+
 }
