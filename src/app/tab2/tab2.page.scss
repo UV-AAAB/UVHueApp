@@ -1,3 +1,47 @@
 ion-content ion-toolbar {
   --background: translucent;
 }
+
+
+
+*{
+  padding: 0;
+  margin: 0 auto;
+}
+
+
+
+
+h1{
+  text-align: center;
+
+}
+
+
+.settings__h1{
+  background-color: #53A9FF;
+  padding: 65.45px 0px;
+}
+
+
+.individual__setting{
+  text-align: center;
+}
+
+.individual__setting_Recess{
+background-color: #1BCC82;
+}
+
+.individual__setting_SignOut{
+background-color: #17B372;
+}
+
+.individual__setting_bridge{
+background-color: #1CD98A;
+}
+
+
+
+.individual__setting p{
+  padding: 65.45px 0px;
+}
