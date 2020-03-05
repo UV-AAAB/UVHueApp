@@ -1,0 +1,17 @@
+.masterwheel{
+    width: 80vmin;
+    height: 80vmin;
+    border: solid 1px black;
+    border-radius: 50%;
+    margin: 30% auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button{
+    width: 30%;
+    height: 30%;
+    border: solid 1px black;
+    border-radius: 50%;
+}

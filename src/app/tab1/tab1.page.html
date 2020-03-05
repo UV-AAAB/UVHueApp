@@ -1,17 +1,26 @@
 <ion-header [translucent]="true">
   <ion-toolbar>
     <ion-title>
-      Tab 1
+      teacher light
     </ion-title>
   </ion-toolbar>
 </ion-header>
 
 <ion-content [fullscreen]="true">
-  <ion-header collapse="condense">
-    <ion-toolbar>
-      <ion-title size="large">Tab 1</ion-title>
-    </ion-toolbar>
-  </ion-header>
+  <div class="chooserarea">
+    <i class="fas fa-angle-down"></i>
+  </div>
+  <div class="masterwheel" id="rotate-this">
+    <div class="dialchoise talk"><p>- Teach</p></div>
+    <div class="dialchoise focus"><p>- Focus</p></div>
+    <div class="dialchoise creative"><p>- Creative</p></div>
+    <div class="dialchoise projector"><p>- projector</p></div>
 
-  <app-explore-container name="Tab 1 page"></app-explore-container>
+    <div class="button">Go</div>
+    
+  </div>
+  <p class="instructions"></p>
 </ion-content>
+
+
+<!-- https://kit.fontawesome.com/3a1189f3fa.js -->
