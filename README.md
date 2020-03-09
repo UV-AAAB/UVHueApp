@@ -32,3 +32,9 @@
 * Login - Bahman
 * Home - Arne
 * Settings - Andreas
+
+## Philips Hue send/hent data
+* Alexander: ?
+* Bahman: Opfang bridge og opret brugernavn, hvis det ikke eksisterer (settings)
+* Arne: Hent status fra lys og hvis indikator hvis ude af sync og sæt status til lys (home)
+* Andreas: Slå automatisk frikvarter fra og hent status (settings)
