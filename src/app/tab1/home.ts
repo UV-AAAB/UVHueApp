@@ -20,16 +20,17 @@ export function execute() {
                 e.target.classList.toggle('button-on');
             }
             let funcarr = [
-                {a: "FocusButton", b: FocusButton}, 
-                {a: "TeachButton", b: TeachButton}, 
-                {a: "ProjectorButton", b: ProjectorButton}, 
-                {a: "CreativeButton", b: CreativeButton}
+                {a: "Focus", b: FocusButton}, 
+                {a: "Teach", b: TeachButton}, 
+                {a: "Projector", b: ProjectorButton}, 
+                {a: "Creative", b: CreativeButton}
             ]
             
             pushButton.childNodes.forEach(element => {
                 if(element.classList.contains('button-on')){
                     let status = element.innerText;   
                     funcarr.forEach(object => {
+                        console.log(object, status)
                         if(object.a == status){
                             object.b()
                         }
@@ -97,6 +98,7 @@ export function execute() {
                         let lightsetting = group[1].action;
                         groupNumber = group[0]
                         console.log(lightsetting)
+                    
                     }
                 });
             
