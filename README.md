@@ -28,7 +28,7 @@
 
 ## Opgaveuddeling
 ### UI
-* Ionicframework - Alexander
-* Login - Bahman
-* Home - Arne
-* Settings - Andreas
+Alexander: Opfang bridge og opret brugernavn, hvis det ikke eksisterer
+Arne: Lysskifte (home)
+Andreas: Synkroniser lys (settings)
+Bahman: Slå automatisk frikvarter fra og hent status (settings)
